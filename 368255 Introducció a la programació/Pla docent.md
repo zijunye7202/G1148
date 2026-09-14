@@ -60,8 +60,15 @@ Programa únic: S
 - Pas per valor i Pas per referència, Pas d’arrays, Pas de structs, Punters a funcions, Retornar múltiples valors
 #### 5.2 Introducció a POO i llenguatge C++
 - Classe, Objecte, Abstracció, Encapsulació, Llenguatge C++
-
 ### 6. Eines i filosofies de desenvolupament
 - Consola, IDE, Repositoris: git i github bàsic, Debugging, Testeig unitari, Profiling, Conceptes i principis bàsics de TDD, Cicle Red-Green-Refactor
+
+## Metodologia i activitats formatives
+
+L’assignatura s’imparteix en classes de teoria, classes teoricopràctiques i classes de pràctiques amb treballs tutelats. Les activitats es proposen i se segueixen a través del Campus Virtual.
+Classes de teoria: una hora i mitja de docència a la setmana (15 setmanes). S’introdueixen els conceptes teòrics amb exemples pràctics, preferentment amb l’ús de metodologies actives d’aprenentatge com classe invertida, aprenentatge basat en problemes i programació en parelles. També es resolen dubtes que puguin sortir relacionats amb el temari.
+Classes teorico-pràctiques: una hora i mitja de docència a la setmana (15 setmanes). També es faran activitats teoricopràctiques en què l’estudiant i el professor treballen de manera conjunta en la resolució de problemes a la pissarra i a l’ordinador.
+Classes de pràctiques: una hora i mitja de docència a la setmana (10 setmanes). S’explica el material de suport per a les pràctiques i l’estudiant ha de resoldre una sèrie de problemes que li ha proposat el professorat, utilitzant llapis i paper i/o l’ordinador. Les sessions de pràctiques inclouen activitats avaluables de diferents tipus al llarg del curs (sessions de lliurament de problemes duts a terme fora de l’aula i proves directes amb un temps limitat dins de les classes). Els lliuraments dels problemes es fan a través del Campus Virtual de l’assignatura. Les pràctiques es desenvolupen en llenguatge C i C++, a l’entorn Linux/Windows.
+
 
 
