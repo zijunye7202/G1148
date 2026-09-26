@@ -16,10 +16,10 @@ Laboratori: "Divendres 12:30–14:00, PLAB-f00, Aula IB"
 
 #### Exercicis d’introducció
 
-- [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/01-funcions.ipynb|Funcions]]
-- [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/02-intro-python1.ipynb|Introducció a Python 1]]
-- [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/03-intro-python2.ipynb|Introducció a Python 2]]
-- [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/04-intro-python3.ipynb|Introducció a Python 3]]
+- [[01-funcions.ipynb|Funcions]]
+- [[02-intro-python1.ipynb|Introducció a Python 1]]
+- [[03-intro-python2.ipynb|Introducció a Python 2]]
+- [[04-intro-python3.ipynb|Introducció a Python 3]]
 - [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/05-teoria3.ipynb|Teoria 3]]
 - [[main/01-primer-curs/02-algorismica/01-teoria/00-introduccio/exercicis/06-teoria4.ipynb|Teoria 4]]
 
