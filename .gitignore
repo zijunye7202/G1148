@@ -67,11 +67,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Repositoris Git independents
-01-primer-curs/01-intro-programacio/02-problemes/02-sessio2/prog-c-git-test/
+# ========================
+# Carpetes i repositoris
+# ========================
 
-# Carpeta d'executables
-build/
-
-
-
+01-primer-curs/01-intro-programacio/03-laboratori/P1-GrupoX-zijunye7202/
