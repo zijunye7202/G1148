@@ -23,7 +23,7 @@ Laboratori: "Dijous 11:30–13:00, PLAB-c00, Aula IB"
 
 ### TEMA 2: Estructura d’un programa
 
-- [[main/01-primer-curs/01-intro-programacio/01-teoria/02-estructura/02-estructura-programa.pdf|Estructura d’un programa]]
+- [[01-estructura-programa.pdf|Estructura d’un programa]]
 
 ### Problemes
 
