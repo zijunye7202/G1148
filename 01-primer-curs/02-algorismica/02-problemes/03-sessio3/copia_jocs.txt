@@ -1,0 +1,6 @@
+El joc 'monopoly' te 6 jugadors i es False que sigui preferit per la majoria
+El joc 'risk' te 5 jugadors i es True que sigui preferit per la majoria
+El joc 'domino' te 3 jugadors i es False que sigui preferit per la majoria
+El joc 'virus' te 1 jugadors i es False que sigui preferit per la majoria
+El joc 'uno' te 7 jugadors i es True que sigui preferit per la majoria
+El joc 'scrabble' te 2 jugadors i es True que sigui preferit per la majoria

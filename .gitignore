@@ -1,0 +1,74 @@
+# =========================
+# C / C++
+# =========================
+
+# Fitxers objecte
+*.o
+*.obj
+
+# Executables típics
+a.out
+*.out
+*.exe
+
+# Executables que utilitzes als exercicis
+programa
+
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+
+# =========================
+# Obsidian
+# =========================
+
+# Estat de finestres/pestanyes de cada ordinador
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache temporal
+.obsidian/cache/
+
+
+# =========================
+# Sistema
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# Fitxers temporals
+# =========================
+
+*.tmp
+*.swp
+*~
+
+
+# ========================
+# Programes
+# ========================
+
+.vscode/
+.idea/
+
+# ========================
+# Carpetes i repositoris
+# ========================
+
+01-primer-curs/01-intro-programacio/03-laboratori/P1-GrupoX-zijunye7202/

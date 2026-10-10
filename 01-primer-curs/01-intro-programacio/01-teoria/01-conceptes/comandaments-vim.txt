@@ -1,0 +1,62 @@
+Vim no funciona como un editor de texto normal: en lugar de tener un único modo de escritura, utiliza modos, y cada uno está pensado para una tarea distinta. Cambiar entre ellos es lo que hace que Vim sea tan potente y flexible.
+
+El modo normal es el que aparece al abrir Vim. En este modo no escribes texto directamente, sino que das órdenes para manipularlo: moverte por el archivo, borrar, copiar, pegar, buscar, etc. Por ejemplo, dd borra la línea actual, yy la copia y p pega lo copiado.
+
+El modo inserción es donde sí puedes escribir texto como en un editor convencional. Se entra con comandos como i (insertar antes del cursor), a (insertar después del cursor) u o (abrir una nueva línea debajo). Para volver al modo normal basta con pulsar Esc.
+
+El modo de línea de comandos se activa escribiendo : desde el modo normal. Sirve para ejecutar órdenes más “largas” o avanzadas, como guardar (:w), salir (:q) o buscar y reemplazar (:s/.../.../).
+
+A continuación tienes una chuleta de comandos básicos vim
+
+Categoría		Comando	Acción
+
+Entrar en inserción	
+			i	Insertar antes del cursor
+			a	Insertar después del cursor
+			o	Nueva línea debajo
+			O	Nueva línea arriba
+
+Guardar / salir	
+			:w	Guardar
+			:q	Salir
+			:wq o ZZ	Guardar y salir
+			:q!	Salir sin guardar
+
+Borrar / copiar / pegar
+			x	Borrar carácter (como Supr)
+			dd	Borrar línea
+			yy	Copiar línea
+			p	Pegar
+
+Deshacer / rehacer	
+			u	Deshacer
+			Ctrl+r	Rehacer
+
+Moverse	
+			h	Izquierda
+			l	Derecha
+			0	Inicio de línea
+			^	Primer carácter no vacío
+			$	Final de línea
+			w	Siguiente palabra
+			b	Inicio palabra anterior
+			gg	Inicio del archivo
+			G	Final del archivo
+			:n	Ir a la línea n
+
+Buscar	
+			/texto	Buscar hacia abajo
+			?texto	Buscar hacia arriba
+			n	Repetir búsqueda en la misma dirección
+			N	Repetir búsqueda en dirección contraria
+
+Reemplazar (línea)	
+			:s/viejo/nuevo/	 Sustituir primera coincidencia en la línea
+			:s/viejo/nuevo/g Sustituir todas las coincidencias en la línea
+
+En inserción
+			Esc	Volver a modo normal
+			Ctrl+h	Borrar un carácter
+			Ctrl+w	Borrar palabra anterior
+			Ctrl+u	Borrar hasta inicio de línea
+

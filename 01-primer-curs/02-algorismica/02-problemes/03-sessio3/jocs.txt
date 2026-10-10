@@ -1,0 +1,6 @@
+monopoly,6,False
+risk,5,True
+domino,3,False
+virus,1,False
+uno,7,True
+scrabble,2,True
