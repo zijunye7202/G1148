@@ -1,9 +1,9 @@
 ---
-status: in-progress
+status: done
 priority: high
 scheduled: 2026-10-12
 dateCreated: 2026-10-11T11:43:35.948+02:00
-dateModified: 2026-10-12T16:08:34.398+02:00
+dateModified: 2026-10-13T07:28:10.238+02:00
 tags:
   - task
 timeEntries:
@@ -19,5 +19,6 @@ timeEntries:
   - startTime: 2026-10-12T12:41:41.103Z
     description: Work session
     endTime: 2026-10-12T15:22:41.091+02:00
+completedDate: 2026-10-13
 ---
 
