@@ -492,10 +492,22 @@
   "lastSeenVersion": "4.13.8",
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "timeRemaining": 224,
+    "currentSession": {
+      "id": "1792075900402",
+      "startTime": "2026-10-15T16:51:40.402+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-15T16:51:40.402+02:00",
+          "endTime": "2026-10-15T16:52:56.920+02:00"
+        }
+      ]
+    }
   },
-  "lastPomodoroDate": "2026-10-12",
+  "lastPomodoroDate": "2026-10-14",
   "pomodoroHistory": [
     {
       "id": "1791712123459",
@@ -733,6 +745,25 @@
         {
           "startTime": "2026-10-13T17:05:54.252+02:00",
           "endTime": "2026-10-13T17:10:54.252+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792067615117",
+      "startTime": "2026-10-15T14:33:35.117+02:00",
+      "endTime": "2026-10-15T16:51:38.338+02:00",
+      "plannedDuration": 90.06666666666666,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-15T14:33:35.117+02:00",
+          "endTime": "2026-10-15T14:33:40.014+02:00"
+        },
+        {
+          "startTime": "2026-10-15T15:21:39.235+02:00",
+          "endTime": "2026-10-15T16:51:38.338+02:00"
         }
       ]
     }
