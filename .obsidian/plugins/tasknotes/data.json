@@ -492,22 +492,10 @@
   "lastSeenVersion": "4.13.8",
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 224,
-    "currentSession": {
-      "id": "1792075900402",
-      "startTime": "2026-10-15T16:51:40.402+02:00",
-      "plannedDuration": 5,
-      "type": "short-break",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-10-15T16:51:40.402+02:00",
-          "endTime": "2026-10-15T16:52:56.920+02:00"
-        }
-      ]
-    }
+    "timeRemaining": 1500,
+    "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2026-10-14",
+  "lastPomodoroDate": "2026-10-15",
   "pomodoroHistory": [
     {
       "id": "1791712123459",
@@ -766,7 +754,152 @@
           "endTime": "2026-10-15T16:51:38.338+02:00"
         }
       ]
+    },
+    {
+      "id": "1792122525897",
+      "startTime": "2026-10-16T05:48:45.897+02:00",
+      "endTime": "2026-10-16T07:18:45.897+02:00",
+      "plannedDuration": 90,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T05:48:45.897+02:00",
+          "endTime": "2026-10-16T07:18:45.897+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792127927455",
+      "startTime": "2026-10-16T07:18:47.455+02:00",
+      "endTime": "2026-10-16T07:23:47.455+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T07:18:47.455+02:00",
+          "endTime": "2026-10-16T07:23:47.455+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792129056011",
+      "startTime": "2026-10-16T07:37:36.011+02:00",
+      "endTime": "2026-10-16T08:38:40.011+02:00",
+      "plannedDuration": 61.06666666666667,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T07:37:36.011+02:00",
+          "endTime": "2026-10-16T08:38:40.011+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792132721336",
+      "startTime": "2026-10-16T08:38:41.336+02:00",
+      "endTime": "2026-10-16T08:43:41.336+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T08:38:41.336+02:00",
+          "endTime": "2026-10-16T08:43:41.336+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792133025720",
+      "startTime": "2026-10-16T08:43:45.719+02:00",
+      "endTime": "2026-10-16T09:08:45.719+02:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T08:43:45.719+02:00",
+          "endTime": "2026-10-16T09:08:45.719+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792134527155",
+      "startTime": "2026-10-16T09:08:47.155+02:00",
+      "endTime": "2026-10-16T09:13:47.155+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T09:08:47.155+02:00",
+          "endTime": "2026-10-16T09:13:47.155+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792140103979",
+      "startTime": "2026-10-16T10:41:43.979+02:00",
+      "endTime": "2026-10-16T11:32:43.979+02:00",
+      "plannedDuration": 51,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T10:41:43.979+02:00",
+          "endTime": "2026-10-16T11:32:43.979+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792143165064",
+      "startTime": "2026-10-16T11:32:45.064+02:00",
+      "endTime": "2026-10-16T11:47:45.064+02:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T11:32:45.064+02:00",
+          "endTime": "2026-10-16T11:47:45.064+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792158456122",
+      "startTime": "2026-10-16T15:47:36.122+02:00",
+      "endTime": "2026-10-16T16:47:36.122+02:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Limits càlcul, mirar teoria funcions.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T15:47:36.122+02:00",
+          "endTime": "2026-10-16T16:47:36.122+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792162057258",
+      "startTime": "2026-10-16T16:47:37.258+02:00",
+      "endTime": "2026-10-16T16:52:37.258+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-16T16:47:37.258+02:00",
+          "endTime": "2026-10-16T16:52:37.258+02:00"
+        }
+      ]
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/Teoria conjunts, relacions, lògica.md"
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Limits càlcul, mirar teoria funcions.md"
 }
