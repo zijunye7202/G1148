@@ -1,0 +1,10 @@
+---
+status: open
+priority: high
+scheduled: 2026-10-19
+dateCreated: 2026-10-19T06:13:25.036+02:00
+dateModified: 2026-10-19T06:14:18.942+02:00
+tags:
+  - task
+---
+

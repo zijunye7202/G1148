@@ -489,12 +489,26 @@
     "defaultReminderMinutes": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.13.8",
+  "lastSeenVersion": "4.13.9",
   "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 7200
+    "isRunning": true,
+    "timeRemaining": 2400,
+    "currentSession": {
+      "id": "1792383392392",
+      "taskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
+      "startTime": "2026-10-19T06:16:32.392+02:00",
+      "plannedDuration": 40,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T06:16:32.392+02:00"
+        }
+      ],
+      "timeTrackingStartTime": "2026-10-19T04:16:32.405Z"
+    }
   },
-  "lastPomodoroDate": "2026-10-16",
+  "lastPomodoroDate": "2026-10-18",
   "pomodoroHistory": [
     {
       "id": "1791712123459",
@@ -900,5 +914,6 @@
       ]
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/Limits càlcul, mirar teoria funcions.md"
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
+  "lastNotifiedReleaseVersion": "4.13.9"
 }
