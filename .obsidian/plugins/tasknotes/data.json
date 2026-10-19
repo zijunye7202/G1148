@@ -494,18 +494,18 @@
     "isRunning": true,
     "timeRemaining": 3600,
     "currentSession": {
-      "id": "1792413701338",
-      "taskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
-      "startTime": "2026-10-19T14:41:41.338+02:00",
+      "id": "1792418207152",
+      "taskPath": "TaskNotes/Tasks/Algorísmica - Fer pràctiques laboratori.md",
+      "startTime": "2026-10-19T15:56:47.152+02:00",
       "plannedDuration": 60,
       "type": "work",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-10-19T14:41:41.338+02:00"
+          "startTime": "2026-10-19T15:56:47.152+02:00"
         }
       ],
-      "timeTrackingStartTime": "2026-10-19T12:41:41.345Z"
+      "timeTrackingStartTime": "2026-10-19T13:56:47.157Z"
     }
   },
   "lastPomodoroDate": "2026-10-18",
@@ -1057,8 +1057,37 @@
           "endTime": "2026-10-19T13:24:29.962+02:00"
         }
       ]
+    },
+    {
+      "id": "1792413701338",
+      "startTime": "2026-10-19T14:41:41.338+02:00",
+      "endTime": "2026-10-19T15:41:41.338+02:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T14:41:41.338+02:00",
+          "endTime": "2026-10-19T15:41:41.338+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792417302516",
+      "startTime": "2026-10-19T15:41:42.515+02:00",
+      "endTime": "2026-10-19T15:46:42.515+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T15:41:42.515+02:00",
+          "endTime": "2026-10-19T15:46:42.515+02:00"
+        }
+      ]
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Algorísmica - Fer pràctiques laboratori.md",
   "lastNotifiedReleaseVersion": "4.13.9"
 }
