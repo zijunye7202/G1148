@@ -492,20 +492,20 @@
   "lastSeenVersion": "4.13.9",
   "pomodoroState": {
     "isRunning": true,
-    "timeRemaining": 2400,
+    "timeRemaining": 3600,
     "currentSession": {
-      "id": "1792383392392",
-      "taskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
-      "startTime": "2026-10-19T06:16:32.392+02:00",
-      "plannedDuration": 40,
+      "id": "1792413701338",
+      "taskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
+      "startTime": "2026-10-19T14:41:41.338+02:00",
+      "plannedDuration": 60,
       "type": "work",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-10-19T06:16:32.392+02:00"
+          "startTime": "2026-10-19T14:41:41.338+02:00"
         }
       ],
-      "timeTrackingStartTime": "2026-10-19T04:16:32.405Z"
+      "timeTrackingStartTime": "2026-10-19T12:41:41.345Z"
     }
   },
   "lastPomodoroDate": "2026-10-18",
@@ -912,8 +912,153 @@
           "endTime": "2026-10-16T16:52:37.258+02:00"
         }
       ]
+    },
+    {
+      "id": "1792383392392",
+      "startTime": "2026-10-19T06:16:32.392+02:00",
+      "endTime": "2026-10-19T06:56:32.392+02:00",
+      "plannedDuration": 40,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T06:16:32.392+02:00",
+          "endTime": "2026-10-19T06:56:32.392+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792385793697",
+      "startTime": "2026-10-19T06:56:33.697+02:00",
+      "endTime": "2026-10-19T07:01:33.697+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T06:56:33.697+02:00",
+          "endTime": "2026-10-19T07:01:33.697+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792392709947",
+      "startTime": "2026-10-19T08:51:49.947+02:00",
+      "endTime": "2026-10-19T09:21:49.947+02:00",
+      "plannedDuration": 30,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T08:51:49.947+02:00",
+          "endTime": "2026-10-19T09:21:49.947+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792394511128",
+      "startTime": "2026-10-19T09:21:51.128+02:00",
+      "endTime": "2026-10-19T09:26:51.128+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T09:21:51.128+02:00",
+          "endTime": "2026-10-19T09:26:51.128+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792398437717",
+      "startTime": "2026-10-19T10:27:17.717+02:00",
+      "endTime": "2026-10-19T10:57:17.717+02:00",
+      "plannedDuration": 30,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Intro. Prog - Tema 3.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T10:27:17.717+02:00",
+          "endTime": "2026-10-19T10:57:17.717+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792400238901",
+      "startTime": "2026-10-19T10:57:18.901+02:00",
+      "endTime": "2026-10-19T11:02:18.901+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T10:57:18.901+02:00",
+          "endTime": "2026-10-19T11:02:18.901+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792401248372",
+      "startTime": "2026-10-19T11:14:08.372+02:00",
+      "endTime": "2026-10-19T12:14:08.372+02:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T11:14:08.372+02:00",
+          "endTime": "2026-10-19T12:14:08.372+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792404849533",
+      "startTime": "2026-10-19T12:14:09.533+02:00",
+      "endTime": "2026-10-19T12:29:09.533+02:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T12:14:09.533+02:00",
+          "endTime": "2026-10-19T12:29:09.533+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792405768799",
+      "startTime": "2026-10-19T12:29:28.799+02:00",
+      "endTime": "2026-10-19T13:19:28.799+02:00",
+      "plannedDuration": 50,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T12:29:28.799+02:00",
+          "endTime": "2026-10-19T13:19:28.799+02:00"
+        }
+      ]
+    },
+    {
+      "id": "1792408769962",
+      "startTime": "2026-10-19T13:19:29.962+02:00",
+      "endTime": "2026-10-19T13:24:29.962+02:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-10-19T13:19:29.962+02:00",
+          "endTime": "2026-10-19T13:24:29.962+02:00"
+        }
+      ]
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/Intro. Prog - Fer exercicis problemes.md",
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Càlcul - Fer apunts, exercicis funcions derivades.md",
   "lastNotifiedReleaseVersion": "4.13.9"
 }
