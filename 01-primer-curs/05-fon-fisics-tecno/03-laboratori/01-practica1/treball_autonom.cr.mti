@@ -1,0 +1,46 @@
+{C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity inversor
+-- Compiling entity and2
+-- Compiling entity or2
+-- Compiling entity and3
+-- Compiling entity or3
+-- Compiling entity and4
+-- Compiling entity or4
+-- Compiling architecture logica of inversor
+-- Compiling architecture logica of and2
+-- Compiling architecture logica of or2
+-- Compiling architecture logica of and3
+-- Compiling architecture logica of or3
+-- Compiling architecture logica of and4
+-- Compiling architecture logica of or4
+
+} {} {}} {C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity bdp_portes
+-- Compiling architecture test_inversor of bdp_portes
+-- Loading entity inversor
+-- Compiling architecture test_and2 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity and2
+-- Compiling architecture test_or2 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity or2
+-- Compiling architecture test_and3 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity and3
+-- Compiling architecture test_or3 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity or3
+-- Compiling architecture test_and4 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity and4
+-- Compiling architecture test_or4 of bdp_portes
+-- Loading entity bdp_portes
+-- Loading entity or4
+-- Compiling architecture test_ALL of bdp_portes
+-- Loading entity bdp_portes
+
+} {} {}}
