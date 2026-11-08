@@ -1,2 +1,2 @@
-# g1148
-ub computer science / engineering obsidian repository
+# G1148
+UB Computer Science / Engineering - Obsidian repository
