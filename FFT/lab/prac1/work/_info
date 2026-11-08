@@ -1,0 +1,440 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eand2
+Z0 w1792501619
+!i122 21
+Z1 dC:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1
+Z2 8C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd
+Z3 FC:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd
+l0
+L8 1
+VdA@Y^;QZ1`37jaH`VO19:2
+!s100 T?E1[8ae9G2O@jU;E]n=:3
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1792506241
+!i10b 1
+Z6 !s108 1792506241.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd|
+Z8 !s107 C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_01.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Alogica
+Z11 DEx4 work 4 and2 0 22 dA@Y^;QZ1`37jaH`VO19:2
+!i122 21
+l56
+L55 4
+V=Q=R7L@XVg]Gmd;R^TP9?3
+!s100 @8b2Cm1XR83enSWdh1fg?1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eand3
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L22 1
+VnCRUOkFCYamo3;AQ7EJGE3
+!s100 cdCKBNZh]B_fkcA;HO]?R0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+Z12 DEx4 work 4 and3 0 22 nCRUOkFCYamo3;AQ7EJGE3
+!i122 21
+l66
+L65 4
+VgNb^ODXPb@AO@ZXfzD9Eo1
+!s100 4;gN2aWS<IGZd6HSAc@d^1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eand4
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L36 1
+VlbPmoX29dL=]:o^bIb^kn3
+!s100 cLW?1AA1`W2faBNW:IDU>1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+Z13 DEx4 work 4 and4 0 22 lbPmoX29dL=]:o^bIb^kn3
+!i122 21
+l76
+L75 4
+VK5QE_Q5NPB`7^QjDEY7n`2
+!s100 I:@DV@HFn]HdEG?503OhI1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Ebdp_portes
+Z14 w1792506235
+!i122 22
+R1
+Z15 8C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd
+Z16 FC:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd
+l0
+L1 1
+VfMO@0N]9BZF^Ve?>m95m^2
+!s100 U=l`o4gzQ6I`M=6E?cdDY3
+R4
+32
+R5
+!i10b 1
+R6
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd|
+Z18 !s107 C:/Users/Zijun Ye/Desktop/G1148/01-primer-curs/05-fon-fisics-tecno/03-laboratori/01-practica1/P1a_Ye_Zijun_02.vhd|
+!i113 1
+R9
+R10
+Atest_all
+Z19 DEx4 work 3 or4 0 22 ?2UL6o4I3l[bg6C`DY3hF3
+R13
+Z20 DEx4 work 3 or3 0 22 ZWLMo<Sk=bGP6lJcZGO6A0
+R12
+Z21 DEx4 work 3 or2 0 22 =PQMG[@o_2=A=EQCGg8Z_2
+R11
+Z22 DEx4 work 8 inversor 0 22 @A4GNkfP4^S_4<J^jZHHE2
+Z23 DEx4 work 10 bdp_portes 0 22 fMO@0N]9BZF^Ve?>m95m^2
+!i122 22
+l218
+Z24 L150 83
+VWI`HU6Bg>eHEKHKHV^6He2
+!s100 6`UEEz8`NF1HidOoQ;8iU1
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_or4
+R19
+R23
+!i122 22
+l140
+Z25 L128 21
+Z26 V=`MPcNJha``18G[>O0LZ51
+Z27 !s100 ?M>OFI?_mBNcziQGk:d``1
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_and4
+R13
+R23
+!i122 22
+l118
+Z28 L106 21
+Z29 V7;FT93fB2bUiY4]o^U2:81
+Z30 !s100 z=J^01M]:^@_72OB>7d<E2
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_or3
+R20
+R23
+!i122 22
+l97
+Z31 L85 20
+Z32 V[QYRLMgTdb^iSUgXSDZ[i0
+Z33 !s100 ezW@OVR7[XAfI7mGH]R5L0
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_and3
+R12
+R23
+!i122 22
+l76
+Z34 L63 21
+Z35 Vaf6E]E_;>9iAdMLgk_1S11
+Z36 !s100 ;[YHiJ3ISYm`8bM>f>H@P0
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_or2
+R21
+R23
+!i122 22
+l55
+Z37 L43 19
+Z38 VWma]?KP1:3@M;kLGFMcMQ0
+Z39 !s100 IX;Q^C0WK4cUV[_7>_e6<1
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_and2
+R11
+R23
+!i122 22
+l35
+Z40 L23 19
+Z41 V^fiP`8;[2O@=Q?bP@ahhd2
+Z42 !s100 iUdcK[kEV7jgIF6[7izY:2
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Atest_inversor
+R22
+R23
+!i122 22
+l16
+Z43 L4 18
+Z44 Vn1FlnBnUMaNmTZiL;d88C2
+Z45 !s100 O`oaV>[`S`PcQX^[Pa@oS2
+R4
+32
+R5
+!i10b 1
+R6
+R17
+R18
+!i113 1
+R9
+R10
+Einversor
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L1 1
+V@A4GNkfP4^S_4<J^jZHHE2
+!s100 Nz5AVDVo2_Y8K?j2O:m5G3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+R22
+!i122 21
+l51
+L50 4
+V<gd:NO5oT56P9?1ViPn8[1
+!s100 :E8>lLBnlPcc43hBia;3z1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor2
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L15 1
+V=PQMG[@o_2=A=EQCGg8Z_2
+!s100 `81]HAdTebHY=2DjMd9[51
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+R21
+!i122 21
+l61
+L60 4
+VY6b2W6SUihiQEC88>USE31
+!s100 abgCdL20N2X3mI:@nDW3=1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor3
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L29 1
+VZWLMo<Sk=bGP6lJcZGO6A0
+!s100 C6T39B:_h_W0ZI8VOFNR@2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+R20
+!i122 21
+l71
+L70 4
+VNGPTCRR>ddHWNDONn>BCO0
+!s100 VbG>RQ2N_cACIVE74M^]I1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor4
+R0
+!i122 21
+R1
+R2
+R3
+l0
+L43 1
+V?2UL6o4I3l[bg6C`DY3hF3
+!s100 z=;Z=nk^cgCY7D96UNbG40
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica
+R19
+!i122 21
+l81
+L80 4
+Vb6VG6:18V[?;81^]h0meE0
+!s100 F[;KdD=NaNTkYlKNZPlIG2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

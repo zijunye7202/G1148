@@ -1,0 +1,236 @@
+ENTITY bdp_portes IS
+END bdp_portes;
+
+ARCHITECTURE test_inversor OF bdp_portes IS
+	COMPONENT porta_inversor
+		PORT (
+			a : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0 : BIT := '0'; 
+	SIGNAL sort_inversor_logica : BIT;
+
+	FOR DUT : porta_inversor USE ENTITY WORK.inversor(logica);
+BEGIN
+	DUT : porta_inversor PORT MAP (a => ent0, z => sort_inversor_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+
+END test_inversor;
+
+ARCHITECTURE test_and2 OF bdp_portes IS
+	COMPONENT porta_and2
+		PORT (
+			a, b : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1 : BIT := '0';
+	SIGNAL sort_and2_logica : BIT;
+	
+	FOR DUT : porta_and2 USE ENTITY WORK.and2(logica);
+BEGIN
+	DUT : porta_and2 PORT MAP (a => ent0, b => ent1, z => sort_and2_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+
+END test_and2;	
+
+ARCHITECTURE test_or2 OF bdp_portes IS
+	COMPONENT porta_or2
+		PORT (
+			a, b : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1 : BIT := '0';
+	SIGNAL sort_or2_logica : BIT;
+	
+	FOR DUT : porta_or2 USE ENTITY WORK.or2(logica);
+BEGIN
+	DUT : porta_or2 PORT MAP (a => ent0, b => ent1, z => sort_or2_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+
+END test_or2;
+
+ARCHITECTURE test_and3 OF bdp_portes IS
+	COMPONENT porta_and3
+		PORT (
+			a, b, c : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	SIGNAL ent0, ent1, ent2 : BIT := '0';
+	SIGNAL sort_and3_logica : BIT;
+	
+	FOR DUT : porta_and3 USE ENTITY WORK.and3(logica);
+	
+BEGIN
+	DUT : porta_and3 PORT MAP (a => ent0, b => ent1, c => ent2, z => sort_and3_logica); 
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+	ent2 <= NOT ent2 AFTER 200 ns;
+	
+END test_and3;
+
+ARCHITECTURE test_or3 OF bdp_portes IS
+	COMPONENT porta_or3
+		PORT (
+			a, b, c : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1, ent2 : BIT := '0';
+	SIGNAL sort_or3_logica : BIT;
+
+	FOR DUT : porta_or3 USE ENTITY WORK.or3(logica);
+BEGIN
+	DUT : porta_or3 PORT MAP (a => ent0, b => ent1, c => ent2, z => sort_or3_logica);
+	
+	ent0 <= NOT ent0 after 50 ns;
+	ent1 <= NOT ent1 after 100 ns;
+	ent2 <= NOT ent2 after 200 ns;
+	
+END test_or3;
+
+ARCHITECTURE test_and4 OF bdp_portes IS
+	COMPONENT porta_and4
+		PORT (
+			a, b, c, d : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1, ent2, ent3 : BIT := '0';
+	SIGNAL sort_and4_logica : BIT;
+
+	FOR DUT : porta_and4 USE ENTITY WORK.and4(logica);
+BEGIN
+	DUT : porta_and4 PORT MAP (a => ent0, b => ent1, c => ent2, d => ent3, z => sort_and4_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+	ent2 <= NOT ent2 AFTER 200 ns;
+	ent3 <= NOT ent3 AFTER 400 ns;
+
+END test_and4;
+
+ARCHITECTURE test_or4 OF bdp_portes IS
+	COMPONENT porta_or4
+		PORT (
+			a, b, c, d : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1, ent2, ent3 : BIT:= '0';
+	SIGNAL sort_or4_logica : BIT;
+
+	FOR DUT : porta_or4 USE ENTITY WORK.or4(logica);
+BEGIN
+	DUT : porta_or4 PORT MAP (a => ent0, b => ent1, c => ent2, d => ent3, z => sort_or4_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+	ent2 <= NOT ent2 AFTER 200 ns;
+	ent3 <= NOT ent3 AFTER 400 ns;
+
+END test_or4;
+
+ARCHITECTURE test_ALL OF bdp_portes IS
+	COMPONENT porta_inversor
+		PORT (
+			a: IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_and2
+		PORT (
+			a, b : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_or2
+		PORT (
+			a, b : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_and3
+		PORT (
+			a, b, c : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_or3
+		PORT (
+			a, b, c : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_and4
+		PORT (
+			a, b, c, d : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+
+	COMPONENT porta_or4
+		PORT (
+			a, b, c, d : IN BIT;
+			z : OUT BIT
+		);
+	END COMPONENT;
+	
+	SIGNAL ent0, ent1, ent2, ent3 : BIT:= '0';
+
+	SIGNAL sort_inversor_logica : BIT;
+	SIGNAL sort_and2_logica : BIT;
+	SIGNAL sort_or2_logica : BIT;
+	SIGNAL sort_and3_logica : BIT;
+	SIGNAL sort_or3_logica : BIT;
+	SIGNAL sort_and4_logica : BIT;
+	SIGNAL sort_or4_logica : BIT;
+
+	FOR DUT1 : porta_inversor USE ENTITY WORK.inversor(logica);
+	FOR DUT2 : porta_and2 USE ENTITY WORK.and2(logica);
+	FOR DUT3 : porta_or2 USE ENTITY WORK.or2(logica);
+	FOR DUT4 : porta_and3 USE ENTITY WORK.and3(logica);
+	FOR DUT5 : porta_or3 USE ENTITY WORK.or3(logica);
+	FOR DUT6 : porta_and4 USE ENTITY WORK.and4(logica);
+	FOR DUT7 : porta_or4 USE ENTITY WORK.or4(logica);
+
+BEGIN
+	DUT1 : porta_inversor PORT MAP (a => ent0, z => sort_inversor_logica);
+	DUT2 : porta_and2 PORT MAP (a => ent0, b => ent1, z => sort_and2_logica);
+	DUT3 : porta_or2 PORT MAP (a => ent0, b => ent1, z => sort_or2_logica);
+	DUT4 : porta_and3 PORT MAP (a => ent0, b => ent1, c => ent2, z => sort_and3_logica); 
+	DUT5 : porta_or3 PORT MAP (a => ent0, b => ent1, c => ent2, z => sort_or3_logica);
+	DUT6 : porta_and4  PORT MAP (a => ent0, b => ent1, c => ent2, d => ent3, z => sort_and4_logica);
+	DUT7 : porta_or4 PORT MAP (a => ent0, b => ent1, c => ent2, d => ent3, z => sort_or4_logica);
+	
+	ent0 <= NOT ent0 AFTER 50 ns;
+	ent1 <= NOT ent1 AFTER 100 ns;
+	ent2 <= NOT ent2 AFTER 200 ns;
+	ent3 <= NOT ent3 AFTER 400 ns;
+
+END test_ALL;
+
+		 
+		
+		 

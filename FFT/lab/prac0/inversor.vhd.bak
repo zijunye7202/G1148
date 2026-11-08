@@ -1,0 +1,13 @@
+-- Definicio de les entrades i sortides del circuit
+ENTITY inversor IS
+    PORT (
+        a : IN BIT;
+        z : OUT BIT
+    );
+END inversor;
+
+-- Comportament del circuit
+ARCHITECTURE logica OF inversor IS
+BEGIN
+    z <= NOT a;
+END logica;
