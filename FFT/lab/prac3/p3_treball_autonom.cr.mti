@@ -1,0 +1,58 @@
+{C:/Users/Zijun Ye/Desktop/G1148/main/FFT/lab/prac3/P3a_Ye_Zijun_portes.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Zijun Ye\Desktop\G1148\main\FFT\lab\prac3\P3a_Ye_Zijun_portes.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity inversor
+-- Compiling entity and2
+-- Compiling entity or2
+-- Compiling entity and3
+-- Compiling entity or3
+-- Compiling entity and4
+-- Compiling entity or4
+-- Compiling entity xor2
+-- Compiling architecture logica of inversor
+-- Compiling architecture logica of and2
+-- Compiling architecture logica of or2
+-- Compiling architecture logica of and3
+-- Compiling architecture logica of or3
+-- Compiling architecture logica of and4
+-- Compiling architecture logica of or4
+-- Compiling architecture logica of xor2
+-- Compiling architecture logicaretard of inversor
+-- Loading entity inversor
+-- Compiling architecture logicaretard of and2
+-- Loading entity and2
+-- Compiling architecture logicaretard of or2
+-- Loading entity or2
+-- Compiling architecture logicaretard of and3
+-- Loading entity and3
+-- Compiling architecture logicaretard of or3
+-- Loading entity or3
+-- Compiling architecture logicaretard of and4
+-- Loading entity and4
+-- Compiling architecture logicaretard of or4
+-- Loading entity or4
+-- Compiling architecture logicaretard of xor2
+-- Loading entity xor2
+
+} {} {}} {C:/Users/Zijun Ye/Desktop/G1148/main/FFT/lab/prac3/P3a_Ye_Zijun_funcio.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Zijun Ye\Desktop\G1148\main\FFT\lab\prac3\P3a_Ye_Zijun_funcio.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity funcio
+-- Compiling architecture logica of funcio
+-- Compiling architecture logicaretard of funcio
+-- Loading entity funcio
+-- Compiling architecture estructural of funcio
+-- Loading entity funcio
+-- Loading entity inversor
+-- Loading entity and3
+-- Loading entity and2
+-- Loading entity or4
+-- Loading entity or2
+-- Loading entity xor2
+-- Compiling architecture estructural_R of funcio
+-- Loading entity funcio
+-- Compiling entity bdp_funcio
+-- Compiling architecture test of bdp_funcio
+-- Loading entity funcio
+
+} {} {}}

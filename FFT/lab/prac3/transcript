@@ -1,0 +1,311 @@
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd failed with 1 errors.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bdp_funcio
+# vsim -gui work.bdp_funcio 
+# Start time: 17:16:38 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+run 810 ns
+add wave -position insertpoint sim:/bdp_funcio/DUT1/*
+vsim -gui work.bdp_funcio(test)
+# End time: 17:34:34 on Nov 10,2026, Elapsed time: 0:17:56
+# Errors: 0, Warnings: 12
+# vsim -gui work.bdp_funcio(test) 
+# Start time: 17:34:34 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+vsim -gui work.bdp_funcio
+# End time: 17:35:57 on Nov 10,2026, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 1
+# vsim -gui work.bdp_funcio 
+# Start time: 17:35:57 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position insertpoint  \
+sim:/bdp_funcio/ent0 \
+sim:/bdp_funcio/ent1 \
+sim:/bdp_funcio/ent2 \
+sim:/bdp_funcio/ent3 \
+sim:/bdp_funcio/sort_logica \
+sim:/bdp_funcio/sort_logicaretard \
+sim:/bdp_funcio/sort_estructural \
+sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+# WARNING: No extended dataflow license exists
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+vsim -gui work.bdp_funcio
+# End time: 21:49:55 on Nov 10,2026, Elapsed time: 4:13:58
+# Errors: 0, Warnings: 1
+# vsim -gui work.bdp_funcio 
+# Start time: 21:49:55 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+run 810 ns
+add wave -position end  sim:/bdp_funcio/ent0
+add wave -position end  sim:/bdp_funcio/ent1
+add wave -position end  sim:/bdp_funcio/ent2
+add wave -position end  sim:/bdp_funcio/ent3
+add wave -position end  sim:/bdp_funcio/sort_logica
+add wave -position end  sim:/bdp_funcio/sort_logicaretard
+add wave -position end  sim:/bdp_funcio/sort_estructural
+add wave -position end  sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bdp_funcio
+# End time: 21:51:52 on Nov 10,2026, Elapsed time: 0:01:57
+# Errors: 0, Warnings: 5
+# vsim -gui work.bdp_funcio 
+# Start time: 21:51:52 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position end  sim:/bdp_funcio/ent0
+add wave -position end  sim:/bdp_funcio/ent1
+add wave -position end  sim:/bdp_funcio/ent2
+add wave -position end  sim:/bdp_funcio/ent3
+add wave -position end  sim:/bdp_funcio/sort_logica
+add wave -position end  sim:/bdp_funcio/sort_logicaretard
+add wave -position end  sim:/bdp_funcio/sort_estructural
+add wave -position end  sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+vsim -gui work.bdp_funcio
+# End time: 21:53:22 on Nov 10,2026, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 1
+# vsim -gui work.bdp_funcio 
+# Start time: 21:53:22 on Nov 10,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position insertpoint sim:/bdp_funcio/*
+add wave -position end  sim:/bdp_funcio/ent0
+add wave -position end  sim:/bdp_funcio/ent1
+add wave -position end  sim:/bdp_funcio/ent2
+add wave -position end  sim:/bdp_funcio/ent3
+add wave -position end  sim:/bdp_funcio/sort_logica
+add wave -position end  sim:/bdp_funcio/sort_logicaretard
+add wave -position end  sim:/bdp_funcio/sort_estructural
+add wave -position end  sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+vsim -gui work.bdp_funcio
+# End time: 00:03:45 on Nov 11,2026, Elapsed time: 2:10:23
+# Errors: 0, Warnings: 1
+# vsim -gui work.bdp_funcio 
+# Start time: 00:03:45 on Nov 11,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position end  sim:/bdp_funcio/ent0
+add wave -position end  sim:/bdp_funcio/ent1
+add wave -position end  sim:/bdp_funcio/ent2
+add wave -position end  sim:/bdp_funcio/ent3
+add wave -position end  sim:/bdp_funcio/sort_logica
+add wave -position end  sim:/bdp_funcio/sort_logicaretard
+add wave -position end  sim:/bdp_funcio/sort_estructural
+add wave -position end  sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bdp_funcio
+# End time: 00:05:57 on Nov 11,2026, Elapsed time: 0:02:12
+# Errors: 0, Warnings: 2
+# vsim -gui work.bdp_funcio 
+# Start time: 00:05:57 on Nov 11,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position insertpoint  \
+sim:/bdp_funcio/ent0 \
+sim:/bdp_funcio/ent1 \
+sim:/bdp_funcio/ent2 \
+sim:/bdp_funcio/ent3 \
+sim:/bdp_funcio/sort_logica \
+sim:/bdp_funcio/sort_logicaretard \
+sim:/bdp_funcio/sort_estructural \
+sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+# Compile of P3a_Ye_Zijun_portes.vhd was successful.
+# Compile of P3a_Ye_Zijun_funcio.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bdp_funcio
+# End time: 00:58:58 on Nov 11,2026, Elapsed time: 0:53:01
+# Errors: 0, Warnings: 2
+# vsim -gui work.bdp_funcio 
+# Start time: 00:58:58 on Nov 11,2026
+# Loading std.standard
+# Loading work.bdp_funcio(test)
+# Loading work.funcio(logica)
+# Loading work.funcio(logicaretard)
+# Loading work.funcio(estructural)
+# Loading work.inversor(logica)
+# Loading work.and3(logica)
+# Loading work.and2(logica)
+# Loading work.or4(logica)
+# Loading work.or2(logica)
+# Loading work.xor2(logica)
+# Loading work.funcio(estructural_r)
+# Loading work.inversor(logicaretard)
+# Loading work.and3(logicaretard)
+# Loading work.and2(logicaretard)
+# Loading work.or4(logicaretard)
+# Loading work.or2(logicaretard)
+# Loading work.xor2(logicaretard)
+add wave -position insertpoint  \
+sim:/bdp_funcio/ent0 \
+sim:/bdp_funcio/ent1 \
+sim:/bdp_funcio/ent2 \
+sim:/bdp_funcio/ent3 \
+sim:/bdp_funcio/sort_logica \
+sim:/bdp_funcio/sort_logicaretard \
+sim:/bdp_funcio/sort_estructural \
+sim:/bdp_funcio/sort_estructural_R
+run 810 ns
+# End time: 09:46:40 on Nov 11,2026, Elapsed time: 8:47:42
+# Errors: 0, Warnings: 1
