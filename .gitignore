@@ -1,0 +1,37 @@
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Compilación de C
+*.o
+*.obj
+*.gch
+*.exe
+a.out
+/IP/**/programa
+/IP/prob/02-sessio2/exercicis/prog[0-9]*
+/IP/prob/01-sessio1/01-primer-programa/intro_prog/**/hello
+/IP/prob/01-sessio1/01-primer-programa/intro_prog/**/exercici
+
+# Archivos generados por el simulador ModelSim/Questa
+/FFT/lab/**/work/
+/FFT/lab/**/transcript
+/FFT/lab/**/*.wlf
+/FFT/lab/**/*.cr.mti
+
+# Estado local de Obsidian
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/cache/
+/.trash/
+
+# Copias de seguridad y temporales de editores
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
