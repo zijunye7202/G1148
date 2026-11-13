@@ -11,7 +11,7 @@ UB Enginyeria Informàtica - Repositori Obsidian
 | **11:00–12:30**<br>ALG · Problemas<br>Aula B1 | **11:00–12:30**<br>IP · Problemas<br>Aula B2 |                                                | **11:30–13:00**<br>IP · Laboratorio<br>Aula 1B |                                                 |
 |                                               |                                              |                                                |                                                |                                                 |
 
-## To-Do List
+## Tasques
 
 - [ ] Estudiar preliminars, funcions i limits - CALC ⏫ 📅 2026-11-13 
 - [ ] Estudiar conjunts - MD 📅 2026-11-13 ⏫ 
