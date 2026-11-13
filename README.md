@@ -16,3 +16,4 @@ UB Enginyeria Informàtica - Repositori Obsidian
 - [ ] Estudiar preliminars, funcions i limits - CALC ⏫ 📅 2026-11-13 
 - [ ] Estudiar conjunts - MD 📅 2026-11-13 ⏫ 
 - [ ] Algorismes text i pràctiques - ALG 🔼 📅 2026-11-13 
+- [ ] Pràctiques - IP 🔽 
