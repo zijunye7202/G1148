@@ -4,12 +4,12 @@ UB Enginyeria Informàtica - Repositori Obsidian
 
 ## Horari 
 
-| Lunes                                         | Martes                                       | Miércoles                                      | Jueves                                         | Viernes                                         |
-| :-------------------------------------------- | :------------------------------------------- | :--------------------------------------------- | :--------------------------------------------- | :---------------------------------------------- |
-| **08:00–09:30**<br>IP · Teoría<br>Aula B2     | **08:00–09:30**<br>CALC · Teoría<br>Aula B5  | **08:00–10:00**<br>CALC · Problemas<br>Aula B2 | **08:00–10:00**<br>FFT · Teoría<br>Aula B5     | **09:30–11:00**<br>ALG · Laboratorio<br>Aula 1G |
-| **09:30–11:00**<br>ALG · Teoría<br>Aula B2    | **09:30–11:00**<br>MD · Teoría<br>Aula B5    | **10:00–12:00**<br>MD · Problemas<br>Aula B2   | **10:00–11:30**<br>FFT · Problemas<br>Aula B2  | **11:00–14:00**<br>FFT · Laboratorio<br>Aula 1F |
-| **11:00–12:30**<br>ALG · Problemas<br>Aula B1 | **11:00–12:30**<br>IP · Problemas<br>Aula B2 |                                                | **11:30–13:00**<br>IP · Laboratorio<br>Aula 1B |                                                 |
-|                                               |                                              |                                                |                                                |                                                 |
+| Dilluns                            | Dimarts                            | Dimecres                            | Dijous                             | Divendres                         |
+| :--------------------------------- | :--------------------------------- | :---------------------------------- | :--------------------------------- | :-------------------------------- |
+| **08:00–09:30**<br>IP · Teo (B2)   | **08:00–09:30**<br>CALC · Teo (B5) | **08:00–10:00**<br>CALC · Prob (B2) | **08:00–10:00**<br>FFT · Teo (B5)  | **09:30–11:00**<br>ALG · Lab (1G) |
+| **09:30–11:00**<br>ALG · Teo (B2)  | **09:30–11:00**<br>MD · Teo (B5)   | **10:00–12:00**<br>MD · Prob (B2)   | **10:00–11:30**<br>FFT · Prob (B2) | **11:00–14:00**<br>FFT · Lab (1F) |
+| **11:00–12:30**<br>ALG · Prob (B1) | **11:00–12:30**<br>IP · Prob (B2)  |                                     | **11:30–13:00**<br>IP · Lab (1B)   |                                   |
+|                                    |                                    |                                     |                                    |                                   |
 
 ## Tasques
 
