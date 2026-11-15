@@ -27,7 +27,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CALC/doc/steward.pdf"
+                "file": "CALC/Llibres/steward.pdf"
               },
               "icon": "lucide-file-text",
               "title": "steward"
@@ -45,7 +45,8 @@
               "title": "epp"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.4226875305176
   },
   "right": {
     "id": "7f06401eec0800e4",
@@ -211,9 +212,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "916cb72a04155b6e",
+  "active": "386b512f81a9cd98",
   "lastOpenFiles": [
-    "CALC/doc/steward.pdf",
+    "ALG/Teoria/3-Numerics/numerics.pdf",
+    "CALC/Llibres/steward.pdf",
+    "ALG/Teoria/1-Algorismes/intro_algorismes.pdf",
+    "README.md",
     "MD/doc/epp.pdf",
     "MD/doc/grimaldi.pdf",
     "MD/doc/hammack.pdf",
@@ -223,9 +227,6 @@
     "MD/doc/Unconfirmed 954871.crdownload",
     "MD/doc/richard_hammack.pdf",
     "MD/doc/susanna_epp.pdf",
-    "MD/doc/Unconfirmed 634585.crdownload",
-    "MD/doc/susan_epp",
-    "README.md",
     "Excalidraw/Drawing 2026-11-14 11.58.48.excalidraw.md",
     "To-Do List.md",
     "IP/lab/P1-GrupoX-zijunye7202/README.md"
