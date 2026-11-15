@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CALC/doc/calculo_steward.pdf"
+                "file": "CALC/doc/steward.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "calculo_steward"
+              "title": "steward"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "epp"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,13 +211,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03432061d74df6bd",
+  "active": "916cb72a04155b6e",
   "lastOpenFiles": [
+    "CALC/doc/steward.pdf",
+    "MD/doc/epp.pdf",
     "MD/doc/grimaldi.pdf",
     "MD/doc/hammack.pdf",
     "MD/doc/levin.pdf",
     "MD/doc/rosen.pdf",
-    "MD/doc/epp.pdf",
     "Excalidraw/Drawing 2026-11-14 10.45.41.excalidraw.md",
     "MD/doc/Unconfirmed 954871.crdownload",
     "MD/doc/richard_hammack.pdf",
