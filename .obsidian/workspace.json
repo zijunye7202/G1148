@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "0720258105e96078",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CALC/Llibres/steward.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "steward"
-            }
-          },
-          {
-            "id": "03432061d74df6bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MD/doc/epp.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "epp"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,21 +189,21 @@
   },
   "active": "386b512f81a9cd98",
   "lastOpenFiles": [
+    "MD/Llibres/epp.pdf",
+    "Excalidraw/Drawing 2026-11-15 21.28.56.excalidraw.md",
+    "Excalidraw",
+    "ALG/Llibres",
+    "CALC/Llibres/calculus_steward.pdf",
     "ALG/Teoria/3-Numerics/numerics.pdf",
-    "CALC/Llibres/steward.pdf",
     "ALG/Teoria/1-Algorismes/intro_algorismes.pdf",
     "README.md",
-    "MD/doc/epp.pdf",
-    "MD/doc/grimaldi.pdf",
-    "MD/doc/hammack.pdf",
-    "MD/doc/levin.pdf",
-    "MD/doc/rosen.pdf",
-    "Excalidraw/Drawing 2026-11-14 10.45.41.excalidraw.md",
-    "MD/doc/Unconfirmed 954871.crdownload",
-    "MD/doc/richard_hammack.pdf",
-    "MD/doc/susanna_epp.pdf",
+    "MD/Llibres/grimaldi.pdf",
+    "MD/Llibres/hammack.pdf",
+    "MD/Llibres/levin.pdf",
+    "MD/Llibres/rosen.pdf",
+    "FFT/Excalidraw/Drawing 2026-11-14 10.45.41.excalidraw.md",
     "Excalidraw/Drawing 2026-11-14 11.58.48.excalidraw.md",
     "To-Do List.md",
-    "IP/lab/P1-GrupoX-zijunye7202/README.md"
+    "IP/Laboratori/P1-GrupoX-zijunye7202/README.md"
   ]
 }
