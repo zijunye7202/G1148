@@ -16,4 +16,4 @@ UB Enginyeria Informàtica - Repositori Obsidian
 - [ ] Estudiar funcions llibre steward 📅 2026-11-16 🔼 
 - [ ] Estudiar conjunts llibre epp 📅 2026-11-16 🔼 
 - [ ] Practicar llenguatge C (P2) 📅 2026-11-16 🔽 
-- [ ] Practicar Python 📅 2026-11-16 🔼 
+- [ ] Practicar Python problemes 📅 2026-11-16 🔼 
