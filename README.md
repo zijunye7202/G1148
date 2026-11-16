@@ -14,6 +14,11 @@ UB Enginyeria Informàtica - Repositori Obsidian
 ## Tasques
 
 - [x] Estudiar funcions llibre steward 🔼 📅 2026-11-16 ✅ 2026-11-16
-- [ ] Estudiar conjunts llibre epp 📅 2026-11-16 🔼 
-- [ ] Practicar llenguatge C (P2) 📅 2026-11-16 🔽 
-- [ ] Practicar Python problemes 📅 2026-11-16 🔼 
+- [ ] Estudiar conjunts + exercicis llibre epp 📅 2026-11-17 🔼 
+- [x] Practicar llenguatge C (P2) 🔽 📅 2026-11-16 ✅ 2026-11-16
+- [ ] Practicar Python problemes 📅 2026-11-17🔼 
+- [ ] Treball autònom P4 - FFT 📅 2026-11-18 🔼 
+
+
+
+

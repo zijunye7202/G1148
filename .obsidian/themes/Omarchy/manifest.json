@@ -1,8 +1,6 @@
 {
   "name": "Omarchy",
-  "version": "1.0.0",
-  "minAppVersion": "0.16.0",
-  "description": "Automatically syncs with your current Omarchy system theme colors and fonts",
-  "author": "Omarchy",
-  "authorUrl": "https://omarchy.org"
+  "version": "1.8.0",
+  "minAppVersion": "1.0.0",
+  "author": "Le Son"
 }
