@@ -1,0 +1,55 @@
+# Loading project practica_4
+# Compile of P4a_Ye_Zijun_portes.vhd was successful.
+# Compile of P4a_Ye_Zijun_deco2a4.vhd was successful.
+# Compile of P4a_Ye_Zijun_mux2a1.vhd was successful.
+# Compile of P4a_Ye_Zijun_biestables.vhd failed with 17 errors.
+# 4 compiles, 1 failed with 17 errors.
+# Compile of P4a_Ye_Zijun_portes.vhd was successful.
+# Compile of P4a_Ye_Zijun_deco2a4.vhd was successful.
+# Compile of P4a_Ye_Zijun_mux2a1.vhd was successful.
+# Compile of P4a_Ye_Zijun_biestables.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.bdp_p03a(test_p03a3)
+# vsim work.bdp_p03a(test_p03a3) 
+# Start time: 11:02:27 on Nov 18,2026
+# Loading std.standard
+# Loading work.bdp_p03a(test_p03a3)
+# Loading work.latch_d(ifthen)
+# Loading work.ff_d(ifthen)
+# Loading work.latch_jk(ifthen)
+# Loading work.ff_jk(ifthen)
+# Loading work.latch_t(ifthen)
+# Loading work.ff_t(ifthen)
+add wave -position insertpoint  \
+sim:/bdp_p03a/ent0 \
+sim:/bdp_p03a/ent1 \
+sim:/bdp_p03a/clk \
+sim:/bdp_p03a/pre \
+sim:/bdp_p03a/clr \
+sim:/bdp_p03a/q_ld \
+sim:/bdp_p03a/nq_ld \
+sim:/bdp_p03a/q_fd \
+sim:/bdp_p03a/nq_fd \
+sim:/bdp_p03a/q_ljk \
+sim:/bdp_p03a/nq_ljk \
+sim:/bdp_p03a/q_fjk \
+sim:/bdp_p03a/nq_fjk \
+sim:/bdp_p03a/q_lt \
+sim:/bdp_p03a/nq_lt \
+sim:/bdp_p03a/q_ft \
+sim:/bdp_p03a/nq_ft
+run 400 ns
+wave zoom full
+# {0 ps} {420 ns}
+# Compile of P4a_Ye_Zijun_portes.vhd was successful.
+# Compile of P4a_Ye_Zijun_deco2a4.vhd was successful.
+# Compile of P4a_Ye_Zijun_mux2a1.vhd was successful.
+# Compile of P4a_Ye_Zijun_biestables.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of P4a_Ye_Zijun_portes.vhd was successful.
+# Compile of P4a_Ye_Zijun_deco2a4.vhd was successful.
+# Compile of P4a_Ye_Zijun_mux2a1.vhd was successful.
+# Compile of P4a_Ye_Zijun_biestables.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+# End time: 11:19:27 on Nov 18,2026, Elapsed time: 0:17:00
+# Errors: 0, Warnings: 5

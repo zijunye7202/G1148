@@ -1,0 +1,92 @@
+/home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_portes.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_portes.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity inversor
+-- Compiling entity and2
+-- Compiling entity or2
+-- Compiling entity and3
+-- Compiling entity or3
+-- Compiling entity and4
+-- Compiling entity or4
+-- Compiling entity xor2
+-- Compiling architecture logica of inversor
+-- Compiling architecture logica of and2
+-- Compiling architecture logica of or2
+-- Compiling architecture logica of and3
+-- Compiling architecture logica of or3
+-- Compiling architecture logica of and4
+-- Compiling architecture logica of or4
+-- Compiling architecture logica of xor2
+-- Compiling architecture logicaretard of inversor
+-- Loading entity inversor
+-- Compiling architecture logicaretard of and2
+-- Loading entity and2
+-- Compiling architecture logicaretard of or2
+-- Loading entity or2
+-- Compiling architecture logicaretard of and3
+-- Loading entity and3
+-- Compiling architecture logicaretard of or3
+-- Loading entity or3
+-- Compiling architecture logicaretard of and4
+-- Loading entity and4
+-- Compiling architecture logicaretard of or4
+-- Loading entity or4
+-- Compiling architecture logicaretard of xor2
+-- Loading entity xor2
+
+} {} {}} /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_biestables.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_biestables.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity bdp_p03a
+-- Compiling architecture test_p03a1 of bdp_p03a
+-- Loading entity deco2a4
+-- Compiling architecture test_p03a2 of bdp_p03a
+-- Loading entity bdp_p03a
+-- Loading entity mux2a1
+-- Compiling entity latch_d
+-- Compiling entity ff_d
+-- Compiling entity latch_jk
+-- Compiling entity ff_jk
+-- Compiling entity latch_t
+-- Compiling entity ff_t
+-- Compiling architecture ifthen of latch_d
+-- Compiling architecture ifthen of ff_d
+-- Compiling architecture ifthen of latch_jk
+-- Compiling architecture ifthen of ff_jk
+-- Compiling architecture ifthen of latch_t
+-- Compiling architecture ifthen of ff_t
+-- Compiling architecture test_p03a3 of bdp_p03a
+-- Loading entity bdp_p03a
+-- Loading entity latch_d
+-- Loading entity ff_d
+-- Loading entity latch_jk
+-- Loading entity ff_jk
+-- Loading entity latch_t
+-- Loading entity ff_t
+
+} {} {}} /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_mux2a1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_mux2a1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity mux2a1
+-- Compiling architecture logicaretard of mux2a1
+-- Compiling architecture ifthen of mux2a1
+-- Loading entity mux2a1
+-- Compiling architecture estructural of mux2a1
+-- Loading entity mux2a1
+-- Loading entity inversor
+-- Loading entity and2
+-- Loading entity or2
+
+} {} {}} /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_deco2a4.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/zijun/Projects/G1148/FFT/Laboratori/Practica-4/P4a_Ye_Zijun_deco2a4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity deco2a4
+-- Compiling architecture logicaretard of deco2a4
+-- Compiling architecture ifthen of deco2a4
+-- Loading entity deco2a4
+-- Compiling architecture estructural of deco2a4
+-- Loading entity deco2a4
+-- Loading entity inversor
+-- Loading entity and2
+
+} {} {}}
