@@ -339,15 +339,14 @@ $$\int f(x)\,dx = F(x) + C \quad (C \in \mathbb{R})$$
 
 ### Tabla de Integrales Inmediatas (Básicas y Compuestas)
 
-| Integral básica | Resultado | Forma compuesta ($u = u(x)$) | Resultado |
-| :--- | :---: | :--- | :---: |
-| $\int x^p \, dx \ (p \neq -1)$ | $\frac{x^{p+1}}{p+1} + C$ | $\int u^p \cdot u' \, dx \ (p \neq -1)$ | $\frac{u^{p+1}}{p+1} + C$ |
-| $\int \frac{1}{x} \, dx$ | $\ln|x| + C$ | $\int \frac{u'}{u} \, dx$ | $\ln|u| + C$ |
-| $\int e^x \, dx$ | $e^x + C$ | $\int e^u \cdot u' \, dx$ | $e^u + C$ |
-| $\int a^x \, dx$ | $\frac{a^x}{\ln(a)} + C$ | $\int a^u \cdot u' \, dx$ | $\frac{a^u}{\ln(a)} + C$ |
-| $\int \sin(x) \, dx$ | $-\cos(x) + C$ | $\int \sin(u) \cdot u' \, dx$ | $-\cos(u) + C$ |
-| $\int \cos(x) \, dx$ | $\sin(x) + C$ | $\int \cos(u) \cdot u' \, dx$ | $\sin(u) + C$ |
-
+| Integral básica                                                                                                                                                |         Resultado         | Forma compuesta ($u = u(x)$)            |         Resultado         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: | :-------------------------------------- | :-----------------------: |
+| $\int x^p \, dx \ (p \neq -1)$                                                                                                                                 | $\frac{x^{p+1}}{p+1} + C$ | $\int u^p \cdot u' \, dx \ (p \neq -1)$ | $\frac{u^{p+1}}{p+1} + C$ |
+| $\int \frac{1}{x} \, dx$                                                                                                                                       | $\ln \lvert x \rvert + C$ | $\int \frac{u'}{u} \, dx$               | $\ln \lvert u \rvert + C$ |
+| $\int e^x \, dx$                                                                                                                                               |         $e^x + C$         | $\int e^u \cdot u' \, dx$               |         $e^u + C$         |
+| $\int a^x \, dx$                                                                                                                                               | $\frac{a^x}{\ln(a)} + C$  | $\int a^u \cdot u' \, dx$               | $\frac{a^u}{\ln(a)} + C$  |
+| $\int \sin(x) \, dx$                                                                                                                                           |      $-\cos(x) + C$       | $\int \sin(u) \cdot u' \, dx$           |      $-\cos(u) + C$       |
+| $\int \cos(x) \, dx$                                                                                                                                           |       $\sin(x) + C$       | $\int \cos(u) \cdot u' \, dx$           |       $\sin(u) + C$       |
 ### Métodos de Integración
 
 #### 1. Cambio de Variable (Sustitución)

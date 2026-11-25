@@ -1,0 +1,123 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Ebdp_deco3a8
+Z0 w1795642459
+!i122 3
+Z1 dC:/Users/yezi7/OneDrive/Desktop/G1148/FFT/Laboratori/Practica-5
+Z2 8C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_deco3a8.vhd
+Z3 FC:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_deco3a8.vhd
+l0
+L89 1
+V6iAGl@4caIYmZ4;]U=Gnn0
+!s100 :l7]nn1<TCK1Pz5Wc42UK2
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1795642461
+!i10b 1
+Z6 !s108 1795642461.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_deco3a8.vhd|
+Z8 !s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_deco3a8.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Atest_deco3a8
+Z11 DEx4 work 7 deco3a8 0 22 DQfBfc^SR<cImI5Si7;Y]2
+DEx4 work 11 bdp_deco3a8 0 22 6iAGl@4caIYmZ4;]U=Gnn0
+!i122 3
+l104
+L92 45
+VGR9mUKH_>BkS5<LiUj5N52
+!s100 jGBJeCD:@Bl`MNI]cQSl82
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Edeco3a8
+R0
+!i122 3
+R1
+R2
+R3
+l0
+L1 1
+VDQfBfc^SR<cImI5Si7;Y]2
+!s100 ;jLaI]zhh9]JNkW27Vaj]1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aifthen
+R11
+!i122 3
+l8
+L6 80
+VJ8J8b8=VAO>NQG;Tn`z?`3
+!s100 V7FGGFLF3>b]5:gXEE]RT1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Ehex7seg
+Z12 w1795643899
+!i122 7
+R1
+Z13 8C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
+Z14 FC:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
+l0
+L1 1
+VgZQ[dDYSHQmz1;BOb@EI<2
+!s100 nh`IP@Q_V[W8E]8oj3]`Q2
+R4
+32
+Z15 !s110 1795643905
+!i10b 1
+Z16 !s108 1795643905.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+!s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+!i113 1
+R9
+R10
+Aifthen
+DEx4 work 7 hex7seg 0 22 gZQ[dDYSHQmz1;BOb@EI<2
+!i122 7
+l8
+L6 56
+V:Ib_=JaNG@G>69F;j6[^h3
+!s100 e2:[[WP^>S`P=mT=E66Wg1
+R4
+32
+R15
+!i10b 1
+R16
+R17
+Z18 !s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+!i113 1
+R9
+R10

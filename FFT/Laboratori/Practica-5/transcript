@@ -1,0 +1,30 @@
+# Compile of P5a_Ye_Zijun_deco3a8.vhd failed with 64 errors.
+# Compile of P5a_Ye_Zijun_deco3a8.vhd failed with 1 errors.
+# Compile of P5a_Ye_Zijun_deco3a8.vhd failed with 1 errors.
+# Compile of P5a_Ye_Zijun_deco3a8.vhd was successful.
+# Load canceled
+vsim -gui work.bdp_deco3a8
+# vsim -gui work.bdp_deco3a8 
+# Start time: 22:35:33 on Nov 25,2026
+# Loading std.standard
+# Loading work.bdp_deco3a8(test_deco3a8)
+# Loading work.deco3a8(ifthen)
+add wave -position insertpoint  \
+sim:/bdp_deco3a8/ent_c \
+sim:/bdp_deco3a8/ent_b \
+sim:/bdp_deco3a8/ent_a \
+sim:/bdp_deco3a8/sort_an7 \
+sim:/bdp_deco3a8/sort_an6 \
+sim:/bdp_deco3a8/sort_an5 \
+sim:/bdp_deco3a8/sort_an4 \
+sim:/bdp_deco3a8/sort_an3 \
+sim:/bdp_deco3a8/sort_an2 \
+sim:/bdp_deco3a8/sort_an1 \
+sim:/bdp_deco3a8/sort_an0
+run 410 ns
+wave zoom full
+# {0 ps} {430500 ps}
+# Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 64 errors.
+# Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 64 errors.
+# Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 64 errors.
+# Compile of P5a_Ye_Zijun_hex7seg.vhd was successful.
