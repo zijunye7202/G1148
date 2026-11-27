@@ -34,7 +34,7 @@ Z11 DEx4 work 7 deco3a8 0 22 DQfBfc^SR<cImI5Si7;Y]2
 DEx4 work 11 bdp_deco3a8 0 22 6iAGl@4caIYmZ4;]U=Gnn0
 !i122 3
 l104
-L92 45
+Z12 L92 45
 VGR9mUKH_>BkS5<LiUj5N52
 !s100 jGBJeCD:@Bl`MNI]cQSl82
 R4
@@ -47,9 +47,68 @@ R8
 !i113 1
 R9
 R10
+Ebdp_p05a
+Z13 w1795674259
+!i122 11
+R1
+Z14 8C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
+Z15 FC:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
+l0
+L63 1
+VC]ePm>_NOzM[9J@k7@iHn2
+!s100 =fDR]IcjEUkFb?mcok3lU3
+R4
+32
+Z16 !s110 1795674263
+!i10b 1
+Z17 !s108 1795674263.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+Z19 !s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+!i113 1
+R9
+R10
+Atest_hex7seg
+Z20 DEx4 work 7 hex7seg 0 22 gZQ[dDYSHQmz1;BOb@EI<2
+DEx4 work 8 bdp_p05a 0 22 C]ePm>_NOzM[9J@k7@iHn2
+!i122 11
+l77
+L66 71
+V<[hGM4RVV=4Cba?L7QPTi0
+!s100 BEfOdZCWh_J<aicQEMSj22
+R4
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R9
+R10
+Atest_deco3a8
+R11
+DEx4 work 8 bdp_p05a 0 22 Jnb=CF;>AC>16dhaFojhP3
+!i122 10
+l104
+R12
+VZf:[]o8YROWWk5UcJcbcG2
+!s100 C7@[[Lfh[hVfdc[7M2Pdz2
+R4
+32
+R16
+!i10b 1
+R17
+R7
+R8
+!i113 1
+R9
+R10
+R3
+Z21 w1795674196
+R2
 Edeco3a8
-R0
-!i122 3
+R21
+!i122 10
 R1
 R2
 R3
@@ -59,9 +118,9 @@ VDQfBfc^SR<cImI5Si7;Y]2
 !s100 ;jLaI]zhh9]JNkW27Vaj]1
 R4
 32
-R5
+R16
 !i10b 1
-R6
+R17
 R7
 R8
 !i113 1
@@ -69,55 +128,55 @@ R9
 R10
 Aifthen
 R11
-!i122 3
+!i122 10
 l8
 L6 80
 VJ8J8b8=VAO>NQG;Tn`z?`3
 !s100 V7FGGFLF3>b]5:gXEE]RT1
 R4
 32
-R5
+R16
 !i10b 1
-R6
+R17
 R7
 R8
 !i113 1
 R9
 R10
 Ehex7seg
-Z12 w1795643899
-!i122 7
+R13
+!i122 11
 R1
-Z13 8C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
-Z14 FC:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd
+R14
+R15
 l0
 L1 1
 VgZQ[dDYSHQmz1;BOb@EI<2
 !s100 nh`IP@Q_V[W8E]8oj3]`Q2
 R4
 32
-Z15 !s110 1795643905
+R16
 !i10b 1
-Z16 !s108 1795643905.000000
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
-!s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+R17
+R18
+R19
 !i113 1
 R9
 R10
 Aifthen
-DEx4 work 7 hex7seg 0 22 gZQ[dDYSHQmz1;BOb@EI<2
-!i122 7
+R20
+!i122 11
 l8
-L6 56
-V:Ib_=JaNG@G>69F;j6[^h3
-!s100 e2:[[WP^>S`P=mT=E66Wg1
+Z22 L6 56
+Z23 V:Ib_=JaNG@G>69F;j6[^h3
+Z24 !s100 e2:[[WP^>S`P=mT=E66Wg1
 R4
 32
-R15
-!i10b 1
 R16
+!i10b 1
 R17
-Z18 !s107 C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_hex7seg.vhd|
+R18
+R19
 !i113 1
 R9
 R10

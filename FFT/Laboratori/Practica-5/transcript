@@ -28,3 +28,35 @@ wave zoom full
 # Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 64 errors.
 # Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 64 errors.
 # Compile of P5a_Ye_Zijun_hex7seg.vhd was successful.
+# Compile of P5a_Ye_Zijun_deco3a8.vhd was successful.
+# Compile of P5a_Ye_Zijun_hex7seg.vhd failed with 66 errors.
+# 2 compiles, 1 failed with 66 errors.
+# Compile of P5a_Ye_Zijun_deco3a8.vhd was successful.
+# Compile of P5a_Ye_Zijun_hex7seg.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui work.bdp_p05a
+# End time: 07:25:48 on Nov 26,2026, Elapsed time: 8:50:15
+# Errors: 0, Warnings: 21
+# vsim -gui work.bdp_p05a 
+# Start time: 07:25:48 on Nov 26,2026
+# Loading std.standard
+# Loading work.bdp_p05a(test_hex7seg)
+# Loading work.hex7seg(ifthen)
+add wave -position insertpoint  \
+sim:/bdp_p05a/ent_x3 \
+sim:/bdp_p05a/ent_x2 \
+sim:/bdp_p05a/ent_x1 \
+sim:/bdp_p05a/ent_x0 \
+sim:/bdp_p05a/sort_ca \
+sim:/bdp_p05a/sort_cb \
+sim:/bdp_p05a/sort_cc \
+sim:/bdp_p05a/sort_cd \
+sim:/bdp_p05a/sort_ce \
+sim:/bdp_p05a/sort_cf \
+sim:/bdp_p05a/sort_cg
+run 810 ns
+wave zoom full
+# {0 ps} {850500 ps}
+# End time: 07:58:27 on Nov 26,2026, Elapsed time: 0:32:39
+# Errors: 0, Warnings: 1

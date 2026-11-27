@@ -1,10 +1,1 @@
-C:/Users/yezi7/OneDrive/Desktop/G1148/FFT/Laboratori/Practica-5/P5a_Ye_Zijun_deco3a8.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\yezi7\OneDrive\Desktop\G1148\FFT\Laboratori\Practica-5\P5a_Ye_Zijun_deco3a8.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Compiling entity deco3a8
--- Compiling architecture ifthen of deco3a8
--- Compiling entity bdp_deco3a8
--- Compiling architecture test_deco3a8 of bdP_deco3a8
--- Loading entity deco3a8
 
-} {} {}}

@@ -86,10 +86,10 @@ END ifthen;
 
 -- banc de proves --
 
-ENTITY bdp_deco3a8 IS
-END bdp_deco3a8;
+ENTITY bdp_p05a IS
+END bdp_p05a;
 
-ARCHITECTURE test_deco3a8 OF bdP_deco3a8 IS
+ARCHITECTURE test_deco3a8 OF bdp_p05a IS
 
 	COMPONENT comp_deco3a8 IS
 		PORT (c, b, a : IN BIT;
@@ -130,6 +130,8 @@ BEGIN
 
 		ent_c <= '1'; ent_b <= '1'; ent_a <= '1';
 		WAIT FOR 50 ns;
+
+		WAIT FOR 10 ns; -- temps de simulacio: 410 ns --
 		WAIT;
 	END PROCESS;
 
